@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CDS**
 
-- 🌱 I’m currently learning **Spring boot , Prompt engineering** 
+- 🌱 I’m currently learning **Spring boot ,Rust**
 
 - 👯 I’m looking to collaborate on **Java , Deep learning projects**
 
