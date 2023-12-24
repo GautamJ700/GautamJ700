@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gautam</h1>
+<h1 align="center">👋, I'm Gautam</h1>
 <h3 align="center">Tooling team @Clevr</h3>
 
 - 🔭 I’m currently working on **CDS**
